@@ -59,7 +59,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\winpcap\SharpPcap\SharpPcap.csproj">
+    <ProjectReference Include="..\winpcap\SharpPcap\SharpPcap.csproj">
       <Project>{24262e52-1304-4a25-8f73-a3b06e40592e}</Project>
       <Name>SharpPcap</Name>
       <Private>True</Private>

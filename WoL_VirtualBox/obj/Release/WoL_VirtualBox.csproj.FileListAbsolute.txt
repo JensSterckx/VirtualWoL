@@ -9,3 +9,17 @@ D:\SCHOOL\Besturings Systemen\WoL_VirtualBox\WoL_VirtualBox\bin\Release\SharpPca
 D:\SCHOOL\Besturings Systemen\WoL_VirtualBox\WoL_VirtualBox\bin\Release\SharpPcap.pdb
 D:\SCHOOL\Besturings Systemen\WoL_VirtualBox\WoL_VirtualBox\bin\Release\SharpPcap.xml
 D:\SCHOOL\Besturings Systemen\WoL_VirtualBox\WoL_VirtualBox\bin\Release\PacketDotNet.xml
+D:\GIT\VirtualWoL\VirtualWoL\WoL_VirtualBox\bin\Release\WoL_VirtualBox.exe.config
+D:\GIT\VirtualWoL\VirtualWoL\WoL_VirtualBox\obj\Release\WoL_VirtualBox.exe
+D:\GIT\VirtualWoL\VirtualWoL\WoL_VirtualBox\obj\Release\WoL_VirtualBox.pdb
+D:\GIT\VirtualWoL\WoL_VirtualBox\bin\Release\WoL_VirtualBox.exe.config
+D:\GIT\VirtualWoL\WoL_VirtualBox\bin\Release\WoL_VirtualBox.exe
+D:\GIT\VirtualWoL\WoL_VirtualBox\bin\Release\WoL_VirtualBox.pdb
+D:\GIT\VirtualWoL\WoL_VirtualBox\bin\Release\PacketDotNet.dll
+D:\GIT\VirtualWoL\WoL_VirtualBox\bin\Release\SharpPcap.dll
+D:\GIT\VirtualWoL\WoL_VirtualBox\bin\Release\SharpPcap.pdb
+D:\GIT\VirtualWoL\WoL_VirtualBox\bin\Release\SharpPcap.xml
+D:\GIT\VirtualWoL\WoL_VirtualBox\bin\Release\PacketDotNet.xml
+D:\GIT\VirtualWoL\WoL_VirtualBox\obj\Release\WoL_VirtualBox.csprojResolveAssemblyReference.cache
+D:\GIT\VirtualWoL\WoL_VirtualBox\obj\Release\WoL_VirtualBox.exe
+D:\GIT\VirtualWoL\WoL_VirtualBox\obj\Release\WoL_VirtualBox.pdb

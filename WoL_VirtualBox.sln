@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoL_VirtualBox", "WoL_VirtualBox\WoL_VirtualBox.csproj", "{FCB64450-1E64-492F-A94E-A39454FF4D4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpPcap", "..\winpcap\SharpPcap\SharpPcap.csproj", "{24262E52-1304-4A25-8F73-A3B06E40592E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpPcap", "winpcap\SharpPcap\SharpPcap.csproj", "{24262E52-1304-4A25-8F73-A3B06E40592E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
